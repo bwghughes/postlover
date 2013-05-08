@@ -5,6 +5,7 @@
 *.egg-info
 .env
 *intray*
+token_store.txt
 dist
 build
 eggs
